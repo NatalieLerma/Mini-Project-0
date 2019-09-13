@@ -34,6 +34,6 @@ int main(void){
 	PLL_Init(Bus80MHz);         // initialize bus frequency
 	Output_Init();              // initialize output device
 	while(1){
-		printf("HelloWorld: Wahoo\n"); // Mini Projet 0: Replace "Wahoo" with your name
+		printf("Hello World: Natalie Lerma\n"); // Mini Projet 0: Replace "Wahoo" with your name
 	}
 }
